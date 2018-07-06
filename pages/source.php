@@ -1,7 +1,7 @@
 <div class="card-body">
 	<p>NPChan is open-source and released under GNU GPL v3 License!</p>
-	<p>NPChan Source code is currently released to few people indended on helping this project and soon to be released to all public on GitHub and GitLab.</p>
-	<p><a href="http://github.com/npchan/npchan">NPChan Repository on GitHub</a></p>
+	<p>NPChan's source code is released on July 6, 2018 on both GitHub and GitLab.</p>
+	<p><b>NPChan Repository on <a href="http://github.com/npchan/npchan">GitHub</a> and <a href="http://gitlab.com/npchan/npchan">GitLab</a></b>.</p>
 	<pre style="background:#444;color:#fff;padding:10px;overflow:auto;">
 	NPChan idealBoard Script, Nepal's First and only Anonymous Discussion (image)Board!
 	Copyright (C) 2018 - Aadarsha Paudel < http://aadarsha.com >
