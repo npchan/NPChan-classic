@@ -9,8 +9,8 @@
 	</div>
 	
 	<div class="card-footer">
-		<p>The best way to donate to us is via our crowdfunding campain: <a href="http://www.grasruts.com/an_anonymous_discussion_board_for_nepal_e006">NPChan's Crowdfunding Campain at Grasruts</a></p>
-		<p>If you dislike the idea of that, you can donate us directly via esewa or any means you prefer. Please <a href="/contact/">Contact Us</a>.</p>
+		<p>NPChan Had a croudfunding campain at <a href="http://www.grasruts.com/an_anonymous_discussion_board_for_nepal_e006">Grasruts</a> (Completed, Raised Approx. NRs. 1.5k) </p>
+		<p>You can donate us directly via esewa or any means you prefer. Please <a href="/contact/">Contact Us</a>.</p>
 	</div>
 
 	<div class="card-footer">
@@ -29,8 +29,8 @@
 	</div>
 	
 	<div class="card-footer">
-		<p>The best way to donate to us is via our crowdfunding campain: <a href="http://www.grasruts.com/an_anonymous_discussion_board_for_nepal_e006">NPChan's Crowdfunding Campain at Grasruts</a></p>
-		<p>If you dislike the idea of that, you can donate us directly via esewa or any means you prefer. Please <a href="/contact/">Contact Us</a>.</p>
+		<p>NPChan had a croudfunding campaign at <a href="http://www.grasruts.com/an_anonymous_discussion_board_for_nepal_e006">Grasruts</a> (Completed, Raised Approx. NRs. 1.5k) </p>
+		<p>You can donate us directly via esewa or any means you prefer. Please <a href="/contact/">Contact Us</a>.</p>
 	</div>
 
 	<div class="card-footer">
