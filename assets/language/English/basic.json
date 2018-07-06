@@ -1,0 +1,52 @@
+{
+	"title": "NPChan",
+	"tagline": "The Nepali Internet!",
+	"about": "About",
+	"contact": "Contact",
+	"donate": "<b>Donate</b>",
+	"faq": "F.A.Q",
+	"rules": "Rules & Terms",
+	"press": "Press",
+	"legal": "Legal",
+	"advertise": "Advertise",
+	"feedback": "Feedback",
+	"source": "Source",
+	"home": "Home",
+	"overboard": "Overboard",
+	"cat": {
+		"creative": "Creative",
+		"interests": "Interests",
+		"community": "Community",
+		"misc": "Misc. <span class='nsfw-warning'>(NSFW)</span>",
+		"others": "Others",
+		"adult": "Adult <span class='nsfw-warning'>(NSFW)</span>"
+	},
+	"copyright": "Copyright",
+	"copyright_alt": "All trademarks and copyrights on this page are owned by their respective parties. Images uploaded are the responsibility of the Poster. Comments are owned by the Poster.",
+	"settings": "Settings",
+	"error": {
+		"error": "Error!",
+		"report_error": "Report Error",
+		"404":{
+			"title": "404 - Not Found!",
+			"alt": "This is embarrassing. We're having trouble finding this page, file or thread you are looking for. This could have been deleted or moved to another location."
+		},
+		"403": {
+			"title": "403 - Access Forbidden!",
+			"alt": "Nope! You do not have permission to view this folder or file."
+		},
+		"400": {
+			"title": "400 - Bad Request!",
+			"alt": "Your browser sent us a bad request. Please restart your browser or switch to different browser if this problem continues."
+		},
+		"408": {
+			"title": "408 - Request Time-out!",
+			"alt": "The request you sent time-out. Is your internet connection too slow? Please try again!"
+		},
+		"500": {
+			"title": "500 - Internal Server Error",
+			"alt": "Our bad! Something doesn't seem to be working here on our side. Please report us this error if you continue to see this."
+		},
+		"is_error": "Could this possibly be a server error or a bug? Please report this error to us if this is abnormal."
+	}
+}

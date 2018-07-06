@@ -1,0 +1,22 @@
+{
+	"search": "Search",
+	"search_alt": "Search Nepal's Internet...",
+	"close": "Close",
+	"what_is": "What is NPChan?",
+	"intro": "<p>NPChan is Nepal's first and only anonymous discussion (image)board where anyone can create new post or add new reply without revealing their identity. NPChan doesn't require user registration and will never ask for your personal information.</p><p>NPChan provides you freedom and privacy to discuss about anything. Joining a conversation or starting one is easy, pick one of the board of category you are interested and you are ready to rock.</p><p>Before using NPChan, be sure to check <a href=\"/rules/\">Rules</a>. If you wish to learn more about NPChan, <a href=\"/faq/\">Frequently Asked Questions</a> may help you!</p>",
+	"all_boards": "All Boards",
+	"hide_nsfw": "Hide NSFW",
+	"show_nsfw": "Show NSFW",
+	"trending_threads": "Trending Threads",
+	"intro_boards": "Suggestion",
+	"intro_boards_alt": "Are you new on NPChan? Let us help you on getting started! Here are our hand-picked boards which you might be interested in!",
+	"intro_boards_nepal": "NPChan's general board. Call it NPChan Room Reloaded if you want!",
+	"intro_boards_truth": "Discuss about your inner secret! Don't worry, your identity is safe here!",
+	"intro_boards_tech": "Everything technology related! To blend in, make sure to install Gentoo!",
+	"quick_start_lang": "NPChan is also available in <a href=\"/settings.php?set_lang=Nepali\">Nepali Language</a> and you can also <a href=\"settings.php?#theme\">change site theme</a> too! Head on to our <a href=\"/settings/\">Settings</a> page to configure NPChan according to what you like! If you want to hide this suggestion box, click on the <b>Close</b> link above.",
+	"empty_trending": "Looks like we do not have any threads trending right now. You can create a new thread thread and they will start appearing here!",
+	"total_threads": "Total Threads:",
+	"last_activity": "Last Activity:",
+	"file_count": "Total Files:"
+
+}
